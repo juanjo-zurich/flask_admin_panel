@@ -1,0 +1,36 @@
+# .gitignore
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Archivos de entorno virtual
+venv/
+
+# Archivos de base de datos
+*.db
+*.sqlite
+
+# Archivos de configuración
+config.py
+*.cfg
+*.ini
+
+# Archivos de registro
+*.log
+
+# Archivos del sistema
+.DS_Store
+
+# Carpetas de pruebas y construcción
+dist/
+build/
+*.egg-info/
+
+# Archivos de PyCharm
+.idea/
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
