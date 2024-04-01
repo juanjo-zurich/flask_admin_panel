@@ -25,6 +25,8 @@ config.py
 dist/
 build/
 *.egg-info/
+AdminLTE-3.2.0/
+plugins/
 
 # Archivos de PyCharm
 .idea/
@@ -34,3 +36,6 @@ build/
 
 # Archivos de Jupyter Notebook
 .ipynb_checkpoints/
+
+
+
